@@ -2,7 +2,7 @@
 
 This is a section of the Cyfrin Foundry Solidity Course.
 The Raffle contract is deployed on [Sepolia](https://sepolia.etherscan.io/address/0x104eBaC1a952dB4849DB0D41639d8F287b071c7D)
- - This contract use Chainlink VRF and Chainlink Automation
+ - This contract uses Chainlink VRF and Chainlink Automation
 
 
 # Getting Started
